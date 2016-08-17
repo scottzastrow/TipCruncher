@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCruncher-Corrupt.CSharp", "TipCruncher-Corrupt.CSharp.csproj", "{5F427073-2E86-3E51-134C-E7691F1A984D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCruncher-Corrupt.CSharp.Editor.Plugins", "TipCruncher-Corrupt.CSharp.Editor.Plugins.csproj", "{2E970036-E4FC-3819-D486-39E493AA8780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F427073-2E86-3E51-134C-E7691F1A984D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F427073-2E86-3E51-134C-E7691F1A984D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F427073-2E86-3E51-134C-E7691F1A984D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F427073-2E86-3E51-134C-E7691F1A984D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E970036-E4FC-3819-D486-39E493AA8780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E970036-E4FC-3819-D486-39E493AA8780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E970036-E4FC-3819-D486-39E493AA8780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E970036-E4FC-3819-D486-39E493AA8780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
