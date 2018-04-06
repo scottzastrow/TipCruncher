@@ -8,5 +8,6 @@ Author: Scott Zastrow<br/>
 Platform: iOS<br/>
 Developed With Unity 5.4.0f3<br/>
 <br/>
+My C# Scripts: https://github.com/scottzastrow/TipCruncher/tree/master/Assets/Scripts
 <br/>
 Available on the App Store: https://itunes.apple.com/nz/app/tipcruncher/id1023249363
